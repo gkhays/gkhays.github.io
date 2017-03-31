@@ -3,9 +3,7 @@ layout: post
 title: Throw-Away First Post
 ---
 
-# Ignore the Super Old Date on This Post
-
-I'm just now getting around to updating this thing. Eventually, I want to take some of my projects and Gists and wrap them in articles.
+Ignore the super old date on this post, it is inherited from the fork. I'm just now getting around to updating this thing. Eventually, I want to take some of my projects and Gists and wrap them in articles.
 
 Candidates:
 
