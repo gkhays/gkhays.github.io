@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #
 # This file contains configuration flags to customize your site
 #
@@ -86,3 +87,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+=======
+title: Slate theme
+description: Slate is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
+>>>>>>> 46151102a283f556616c57df38ccf06170a9d44e
