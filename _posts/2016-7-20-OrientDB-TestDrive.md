@@ -2,6 +2,7 @@
 layout: post
 title: OrientDB Research
 date: 2016-07-20
+image: /images/orientdb-banner.png
 tag: OrientDB is a graph database and is NoSQL
 categories: [software, database, nosql]
 ---
