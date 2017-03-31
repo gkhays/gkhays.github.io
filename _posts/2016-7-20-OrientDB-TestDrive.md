@@ -45,13 +45,13 @@ orientdb:
 
 You should now be able to access OrientDB Studio on the server. On Windows, the URL is http://192.168.99.100:2480/. Whereas on Mac OS X or Linux, it is http://localhost:2480/. Upon entering the link into your browser, you are met with a login screen.
 
-![Login](images/OrientDB_Login.PNG)
+![Login](/images/OrientDB_Login.PNG)
 
 Once you have logged in you may view the schema.
 
 #### Security Manager
 
-![Security Manager](images/OrientDB_Security_Manager.PNG)
+![Security Manager](/images/OrientDB_Security_Manager.PNG)
 
 ### Querying OrientDB
 
@@ -62,7 +62,7 @@ Once you have logged in you may view the schema.
 
 Gremlin (TinkerPop) - Graph traversal language
 
-![TinkerPop](images/TinkerPop.png)
+![TinkerPop](/images/TinkerPop.png)
 
 ### Support for GraphQL
 
@@ -78,5 +78,5 @@ https://github.com/orientechnologies/orientjs/issues/72
 
 #### OrientDB vs ArangoDB
 
-* https://www.arangodb.com/community/
-* https://orientdbleaks.blogspot.com/2015/06/the-orientdb-issues-that-made-us-give-up.html
+* <https://www.arangodb.com/community/>
+* [](https://orientdbleaks.blogspot.com/2015/06/the-orientdb-issues-that-made-us-give-up.html)
