@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: Throw-Away First Post
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+# Ignore the Super Old Date on This Post
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+I'm just now getting around to updating this thing. Eventually, I want to take some of my projects and Gists and wrap them in articles.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Candidates:
+
+* JavaScript Sine Wave
+* OrientDB Test Drive
+* Ethereum PoC
