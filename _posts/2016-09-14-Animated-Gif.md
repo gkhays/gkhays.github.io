@@ -1,4 +1,8 @@
-# Animated GIF
+---
+layout: post
+title: Animated GIF
+category: gif
+---
 
 This article describes the process for creating an animated GIF file. It includes procedures for Windows and Mac OS X.
 
