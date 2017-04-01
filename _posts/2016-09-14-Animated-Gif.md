@@ -14,7 +14,7 @@ The first step is to obtain a screen capture of the event that is to be depicted
 
 Once the screen has been captured, it must be encoded to a video format. In the case of the free version of Expression Encoder, only the Window Media Video (WMV) codec is supported. In any case, the first step is to send the capture to the separate Expression Encoder utility.
 
-![Export to Encoder](/images/Expression-ScreenCapExport-To-Encoder.png)
+![Export to Encoder](/images/Export-To-Encoder.png)
 
 The "Send to Encoder" button will open Expression Encoder with the capture project. At this point we may now encode to the WMV format.
 
@@ -29,7 +29,8 @@ I had some problems getting the correct dependencies (ffmpeg and imagemagick con
 ![gifify-docker](/images/gifify-docker.png)
 
 ```bash
-$ docker run -it --rm -v $(pwd):/data maxogden/gifify source.mp4 -o output.gif
+$ docker run -it --rm -v $(pwd):/data maxogden/gifify source.mp4 \
+  -o output.gif
 ```
 
 ## Mac
