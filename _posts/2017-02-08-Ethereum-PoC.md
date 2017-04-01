@@ -1,4 +1,9 @@
-# Blockchain Transactions
+---
+layout: post
+title: Blockchain Transactions
+categories: [ethereum, bitcoin]
+---
+
 The purpose of this project is to demonstrate the ability to record identity-related transactions on a private blockchain. An initial idea was to record actions or events associated with entitlements. However, a more pertinent scenario is to record an identity governance review on the blockchain.
 
 The [Ethereum Project](https://www.ethereum.org/) seems like a good place to start since it supports so called "`smart contracts`" and was designed for uses other than pure digital cash transactions such as Bitcoin. I chose the Golang implementation, [go-ethereum](https://github.com/ethereum/go-ethereum).
