@@ -35,6 +35,6 @@ Jekyll resolves relative links without the slash to `_posts` whereas a leading s
 
 Or as Stimpy would say `obser-uve`!
 
-![Stimpy](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiS3qWxp4bTAhVG64MKHYfXBdAQjRwIBw&url=https%3A%2F%2Fdailyhumorpix.wordpress.com%2Ftag%2Fren-stimpy%2Fpage%2F2%2F&bvm=bv.151325232,d.cGc&psig=AFQjCNGMDpS-QmNumtvJbTuqADzWVt6EqQ&ust=1491240890131125)
+![Stimpy](scholar-stimpy.png)
 
 - End -
