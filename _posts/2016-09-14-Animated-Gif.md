@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Animated GIF
-category: gif
+title: Create an Animated GIF Yourself
+categories: [gif, ffmpeg]
 ---
 
-This article describes the process for creating an animated GIF file. It includes procedures for Windows and Mac OS X.
+For another project, I had a short video I wanted to embed inline without having to resort to YouTube or other dedicated viewer; an animated GIF was the perfect solution. This article describes the process for creating an animated GIF file and includes procedures for Windows and Mac OS X.
+
+## Mac
+
+![Handbrake](/images/Handbrake2MP4.png)
 
 ## Windows
 
@@ -32,7 +36,3 @@ I had some problems getting the correct dependencies (ffmpeg and imagemagick con
 $ docker run -it --rm -v $(pwd):/data maxogden/gifify source.mp4 \
   -o output.gif
 ```
-
-## Mac
-
-![Handbrake](/images/Handbrake2MP4.png)
