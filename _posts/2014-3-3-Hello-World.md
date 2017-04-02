@@ -24,3 +24,9 @@ Since I have a dedicated `images` folder, how do I refer to relative image links
 ![Without](images/404.jpg)
 ```
 ![Without](images/404.jpg)
+
+Wow! This image is huge. Trying inline `HTML` instead.
+
+<img src="images/404.jpg" alt="GitHub Mascot" style="width: 200px;"/>
+
+- End -
