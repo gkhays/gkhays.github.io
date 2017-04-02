@@ -16,11 +16,11 @@ Candidates:
 Since I have a dedicated `images` folder, how do I refer to relative image links when using Jekyll and Markdown? Is it `/images/xxx` or will `images/xxx` (with no leading slash) suffice? Below are one of each.
 
 ```md
-![With](/images/404.png)
+![With](/images/404.jpg)
 ```
-![With](/images/404.png)
+![With](/images/404.jpg)
 
 ```md
-![Without](images/404.png)
+![Without](images/404.jpg)
 ```
-![Without](images/404.png)
+![Without](images/404.jpg)
