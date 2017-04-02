@@ -35,6 +35,6 @@ Jekyll resolves relative links without the slash to `_posts` whereas a leading s
 
 Or as Stimpy would say `obser-uve`!
 
-![Stimpy](scholar-stimpy.png)
+![Stimpy](/images/scholar-stimpy.png)
 
 - End -
