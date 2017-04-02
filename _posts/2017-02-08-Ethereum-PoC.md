@@ -4,7 +4,7 @@ title: Blockchain Transactions
 categories: [ethereum, bitcoin]
 ---
 
-The purpose of this project is to demonstrate the ability to record identity-related transactions on a private blockchain. The idea is to record actions or events associated with resources with which an identity may interact typically called entitlements.
+The purpose of this project is to demonstrate the ability to record identity-related transactions on a private blockchain. The idea is to record actions or events associated with resources with which an identity may interact, typically called entitlements.
 
 I started with the [Ethereum Project](https://www.ethereum.org/) since it supports so called "`smart contracts`" and was designed for uses other than pure digital cash transactions as is the case with Bitcoin. I chose the Golang implementation, [go-ethereum](https://github.com/ethereum/go-ethereum).
 
@@ -66,9 +66,8 @@ instance: Geth/v1.5.8-stable-f58fb322/linux/go1.6.2
 ```
 
 ## Ethereum Quick Start
-See the wiki pages for this repostitory for more detail: [wiki pages](/wiki/Home).
 
-Quick bash script to start go-ethereum. The default ports are fine.
+Below is a quick bash script to start go-ethereum. The default ports are fine.
 
 RPC Port: default: 8545<br/>
 Port default: 30303
