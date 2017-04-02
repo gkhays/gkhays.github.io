@@ -39,4 +39,10 @@ Or as Stimpy would say `obser-uve`!
 
 ![Stimpy](/images/scholar-stimpy.png)
 
-- End -
+## How to Change Image Size
+
+`<img src="drawing.jpg" alt="Drawing" style="width: 200px;"/>`
+
+[How to change image size Markdown?](http://stackoverflow.com/a/14747656/6146580)
+
+`- End -`
