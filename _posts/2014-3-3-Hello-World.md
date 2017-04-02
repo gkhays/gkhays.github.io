@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Throw-Away First Post
+title: Learning About GitHub Pages and Jekyll
 ---
 
 Ignore the super old date on this post, it is inherited from the fork. I'm just now getting around to updating this thing. Eventually, I want to take some of my projects and Gists and wrap them in articles.
@@ -10,6 +10,8 @@ Candidates:
 * JavaScript Sine Wave
 * OrientDB Test Drive
 * Ethereum PoC
+
+Meanwhile, I had to learn some new things to get everything working smoothly.
 
 ## Notes on Relative Images
 
