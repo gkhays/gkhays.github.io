@@ -18,7 +18,7 @@ Since I have a dedicated `images` folder, how do I refer to relative image links
 ```md
 ![With}(/images/404.png)
 ```
-![With}(/images/404.png)
+![With](/images/404.png)
 
 ```md
 ![Without](images/404.png)
